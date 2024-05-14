@@ -1,0 +1,56 @@
+body{
+    background-color: #ccc;
+}
+.trae-1{
+    width: 60%;
+
+}
+.trae-1 img{
+    object-fit: cover;
+    width: 100px;
+    height: 100px;
+}
+.trae-2{
+    display: flex;
+    flex-direction: column;
+    width: 20%;
+
+}
+.KEYBOARD{
+    display: flex;
+}
+.one{
+    margin: 9px;
+}
+.two{
+    margin: 9px;
+}
+.three{
+    margin: 9px;
+    height: auto;
+}
+.Mouse{
+    display: flex;
+}
+.four{
+    margin: 9px;
+   
+}
+.five{
+   margin: 9px;
+}
+.six{
+ margin: 9px;  
+}
+.Desktops{
+    display: flex;
+}
+.seven{
+    margin: 9px;
+}
+.eight{
+    margin: 9px;
+}
+.nine{
+    margin: 9px;
+}

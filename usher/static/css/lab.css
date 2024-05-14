@@ -1,0 +1,57 @@
+
+
+h1{
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+font-family: Arial, sans-serif;
+background-color: #ccc;
+margin: 0;
+padding: 0;
+}
+.ush{
+    padding-left: 450px;
+}
+h1{
+    padding-right: 1000px;
+}
+.list{
+    display: none;
+
+}
+.list2{
+      display: block;
+     list-style-type: none;     
+}
+.bruce{
+    list-style-type: none;
+    display: block;
+}
+.bruce li:hover .list2{
+    display: block;
+     color: #f0f0f0;
+} 
+.bruce:hover .list{
+    display: block;
+}
+a{
+    text-decoration: none;
+    list-style-type: none;
+}
+.tony{
+   padding-top: 50px;
+}
+h3{
+    padding-left: 10px;
+}
+h1{
+    padding-right: 450px;
+}
+.by{
+    padding-bottom: 300px;
+}
+.trae{
+    padding-bottom: 2223px;
+}
